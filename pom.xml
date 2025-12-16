@@ -415,11 +415,10 @@
       </properties>
     </profile>
   </profiles>
-<profiles>
-  <profile>
-    <id>ci</id>
-    <properties>
-      <cargo.skip>true</cargo.skip>
+  <profiles>
+      <id>ci</id>
+      <properties>
+       <cargo.skip>true</cargo.skip>
     </properties>
   </profile>
 </profiles>
