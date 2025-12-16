@@ -415,9 +415,6 @@
       </properties>
     </profile>
   </profiles>
-
-</project>
-
 <profiles>
   <profile>
     <id>ci</id>
@@ -426,3 +423,4 @@
     </properties>
   </profile>
 </profiles>
+</project>
